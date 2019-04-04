@@ -1,2 +1,2 @@
 # hello-world
-Opening repository
+Opening repository for hello world
